@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://metrics.lecoq.io/heyaqi0703?template=classic&isocalendar=1&repositories=1&discussions=1&achievements=1&calendar=1&traffic=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FShanghai" width="700">
+![Metrics](./metrics.svg)
+
 
 
 <!--
